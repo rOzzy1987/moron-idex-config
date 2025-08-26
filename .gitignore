@@ -1,3 +1,4 @@
 *.bkp
 *.backup
 mainsail.cfg
+*.template.cfg
