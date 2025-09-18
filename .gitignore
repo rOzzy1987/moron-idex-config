@@ -1,4 +1,6 @@
 *.bkp
 *.backup
 mainsail.cfg
+fluidd.cfg
 *.template.cfg
+printer-*.cfg
